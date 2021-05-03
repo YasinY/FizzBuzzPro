@@ -4,7 +4,7 @@ It uses PSR-4 Autoloading for simple namespaces, in case further development is 
 It also is fully unit tested.
 
 
-To run this project, please ensure you have PHP 7.3+ and composer installed.
+To run this project, please ensure you have PHP 7.4+ and composer installed.
 
 If that's not the case, please refer to the following Downloads (most commonly used OS):  
 PHP:
