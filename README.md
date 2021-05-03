@@ -29,7 +29,7 @@ php index.php
 ```
 
 Expected output when running php:  
-![phpstorm64_JUkFaLL6Xj](https://user-images.githubusercontent.com/10624021/115323089-a7a1fc80-a187-11eb-9f47-430736b5548d.png)
+![image](https://user-images.githubusercontent.com/10624021/116837770-0cb81200-abcc-11eb-8d9a-0eb8dce85125.png)
 
 
 Congratulations, you've successfuly ran the program! :)
