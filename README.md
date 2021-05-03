@@ -37,11 +37,11 @@ Congratulations, you've successfuly ran the program! :)
 
 To run Tests, enter the following command *from the base of this directory!*
 __Please make sure you've installed composer as mentioned above!__  
-Windows: ```"./vendor/bin/phpunit" tests```  
-MAC: ```./vendor/bin/phpunit tests```
+Windows: ```"./vendor/bin/phpunit" test --coverage-text```  
+MAC: ```./vendor/bin/phpunit test --coverage-text```
 
 Expected output:  
-![phpstorm64_vqiikqJBQT](https://user-images.githubusercontent.com/10624021/115323010-80e3c600-a187-11eb-8550-865e5535a170.png)
+![image](https://user-images.githubusercontent.com/10624021/116837891-7fc18880-abcc-11eb-8bb0-643c9f9f9d28.png)
 
 
 Exit codes:  
