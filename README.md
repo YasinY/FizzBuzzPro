@@ -45,4 +45,5 @@ Expected output:
 
 
 Exit codes:  
-1 - Not permitted Modulo by Zero
+1 - Not permitted Division by Zero
+2 - Not supported Value
