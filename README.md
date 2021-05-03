@@ -45,5 +45,5 @@ Expected output:
 
 
 Exit codes:  
-1 - Not permitted Division by Zero
-2 - Not supported Value
+1 - Not permitted Division by Zero.  
+2 - Not supported Value. 
