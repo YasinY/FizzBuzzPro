@@ -1,0 +1,26 @@
+{
+  "name": "yasin/fizz-buzz",
+  "type": "project",
+  "description": "",
+  "authors": [
+    {
+      "name": "Yasin",
+      "email": "yasin@yazici.dev"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "YasinYazici\\SoftwareEngineering\\": "src",
+      "YasinYazici\\SoftwareEngineering\\Arithemtics\\": "src\\Arithmetics",
+      "YasinYazici\\SoftwareEngineering\\Console\\": "src\\Console",
+      "YasinYazici\\SoftwareEngineering\\Exception\\": "src\\Exception",
+      "YasinYazici\\SoftwareEngineering\\Tests\\": "test"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
